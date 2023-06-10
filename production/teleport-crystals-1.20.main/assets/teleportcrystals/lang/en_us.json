@@ -1,0 +1,7 @@
+{
+  "item.teleportcrystals.corridor_crystal": "Corridor Crystal",
+  "item.teleportcrystals.corridor_crystal_linked": "Corridor Crystal (Linked)",
+  "item.teleportcrystals.corridor_crystal_linked.tooltip": "This crystal is linked to the coordinates",
+
+  "itemGroup.teleportcrystals.teleport_crystals_group": "Teleport Crystals"
+}
